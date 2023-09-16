@@ -1,0 +1,7 @@
+C:\Users\lemnyx\source\repos\functionsmethods\functionsmethods\bin\Debug\functionsmethods.exe.config
+C:\Users\lemnyx\source\repos\functionsmethods\functionsmethods\bin\Debug\functionsmethods.exe
+C:\Users\lemnyx\source\repos\functionsmethods\functionsmethods\bin\Debug\functionsmethods.pdb
+C:\Users\lemnyx\source\repos\functionsmethods\functionsmethods\obj\Debug\functionsmethods.csproj.AssemblyReference.cache
+C:\Users\lemnyx\source\repos\functionsmethods\functionsmethods\obj\Debug\functionsmethods.csproj.CoreCompileInputs.cache
+C:\Users\lemnyx\source\repos\functionsmethods\functionsmethods\obj\Debug\functionsmethods.exe
+C:\Users\lemnyx\source\repos\functionsmethods\functionsmethods\obj\Debug\functionsmethods.pdb

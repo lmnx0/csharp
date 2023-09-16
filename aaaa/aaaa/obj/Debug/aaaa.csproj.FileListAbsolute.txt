@@ -1,0 +1,7 @@
+C:\Users\lemnyx\source\repos\aaaa\aaaa\bin\Debug\aaaa.exe.config
+C:\Users\lemnyx\source\repos\aaaa\aaaa\bin\Debug\aaaa.exe
+C:\Users\lemnyx\source\repos\aaaa\aaaa\bin\Debug\aaaa.pdb
+C:\Users\lemnyx\source\repos\aaaa\aaaa\obj\Debug\aaaa.csproj.AssemblyReference.cache
+C:\Users\lemnyx\source\repos\aaaa\aaaa\obj\Debug\aaaa.csproj.CoreCompileInputs.cache
+C:\Users\lemnyx\source\repos\aaaa\aaaa\obj\Debug\aaaa.exe
+C:\Users\lemnyx\source\repos\aaaa\aaaa\obj\Debug\aaaa.pdb
